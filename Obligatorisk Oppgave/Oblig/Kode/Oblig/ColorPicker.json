@@ -1,0 +1,361 @@
+{"colors":[{
+    "hexString": "#f2f2f2",
+    "name": "Very light gray"
+},{
+    "hexString": "#e6e6e6",
+    "name": "Very light gray"
+},{
+    "hexString": "#cccccc",
+    "name": "Light gray"
+},{
+    "hexString": "#b3b3b3",
+    "name": "Gray"
+},{
+    "hexString": "#999999",
+    "name": "Dark gray"
+},{
+    "hexString": "#808080",
+    "name": "Gray"
+},{
+    "hexString": "#ffffff",
+    "name": "White"
+},{
+    "hexString": "#666666",
+    "name": "Very dark gray"
+},{
+    "hexString": "#4d4d4d",
+    "name": "Very dark gray"
+},{
+    "hexString": "#333333",
+    "name": "Very dark gray"
+},{
+    "hexString": "#1a1a1a",
+    "name": "Very dark gray (mostly black)"
+},{
+    "hexString": "#000000",
+    "name": "Black"
+},{
+    "hexString": "#003333",
+    "name": "Very dark cyan"
+},{
+    "hexString": "#001a80",
+    "name": "Dark blue"
+},{
+    "hexString": "#1a0068",
+    "name": "Dark blue"
+},{
+    "hexString": "#330033",
+    "name": "Very dark magenta"
+},{
+    "hexString": "#4d001a",
+    "name": "Very dark pink"
+},{
+    "hexString": "#990000",
+    "name": "Dark red"
+},{
+    "hexString": "#993300",
+    "name": "Dark orange [Brown tone]"
+},{
+    "hexString": "#994d00",
+    "name": "Dark orange [Brown tone]"
+},{
+    "hexString": "#996600",
+    "name": "Dark orange [Brown tone]"
+},{
+    "hexString": "#999900",
+    "name": "Dark yellow [Olive tone]"
+},{
+    "hexString": "#666600",
+    "name": "Very dark yellow [Olive tone]"
+},{
+    "hexString": "#003300",
+    "name": "Very dark lime green"
+},{
+    "hexString": "#1a4d4d",
+    "name": "Very dark cyan"
+},{
+    "hexString": "#1a3399",
+    "name": "Dark blue"
+},{
+    "hexString": "#331a80",
+    "name": "Dark blue"
+},{
+    "hexString": "#4d1a4d",
+    "name": "Very dark magenta"
+},{
+    "hexString": "#661a33",
+    "name": "Very dark pink"
+},{
+    "hexString": "#b31a1a",
+    "name": "Strong red"
+},{
+    "hexString": "#b34d1a",
+    "name": "Strong orange"
+},{
+    "hexString": "#b3661a",
+    "name": "Strong orange"
+},{
+    "hexString": "#b3801a",
+    "name": "Strong orange"
+},{
+    "hexString": "#b3b31a",
+    "name": "Strong yellow"
+},{
+    "hexString": "#80801a",
+    "name": "Dark yellow [Olive tone]"
+},{
+    "hexString": "#1a4d1a",
+    "name": "Very dark lime green"
+},{
+    "hexString": "#336666",
+    "name": "Very dark desaturated cyan"
+},{
+    "hexString": "#334db3",
+    "name": "Moderate blue"
+},{
+    "hexString": "#4d3399",
+    "name": "Dark moderate violet"
+},{
+    "hexString": "#663366",
+    "name": "Very dark desaturated magenta"
+},{
+    "hexString": "#80334d",
+    "name": "Dark moderate pink"
+},{
+    "hexString": "#cc3333",
+    "name": "Strong red"
+},{
+    "hexString": "#cc6633",
+    "name": "Strong orange"
+},{
+    "hexString": "#cc8033",
+    "name": "Strong orange"
+},{
+    "hexString": "#cc9933",
+    "name": "Strong orange"
+},{
+    "hexString": "#cccc33",
+    "name": "Strong yellow"
+},{
+    "hexString": "#999933",
+    "name": "Dark moderate yellow"
+},{
+    "hexString": "#336633",
+    "name": "Very dark desaturated lime green"
+},{
+    "hexString": "#4d8080",
+    "name": "Mostly desaturated dark cyan"
+},{
+    "hexString": "#4d66cc",
+    "name": "Moderate blue"
+},{
+    "hexString": "#664db3",
+    "name": "Moderate blue"
+},{
+    "hexString": "#804d80",
+    "name": "Mostly desaturated dark magenta"
+},{
+    "hexString": "#994d66",
+    "name": "Dark moderate pink"
+},{
+    "hexString": "#e64d4d",
+    "name": "Soft red"
+},{
+    "hexString": "#e6804d",
+    "name": "Soft orange"
+},{
+    "hexString": "#e6994d",
+    "name": "Soft orange"
+},{
+    "hexString": "#e6b34d",
+    "name": "Soft orange"
+},{
+    "hexString": "#e6e64d",
+    "name": "Soft yellow"
+},{
+    "hexString": "#b3b34d",
+    "name": "Moderate yellow"
+},{
+    "hexString": "#4d804d",
+    "name": "Mostly desaturated dark lime green"
+},{
+    "hexString": "#669999",
+    "name": "Mostly desaturated dark cyan"
+},{
+    "hexString": "#6680e6",
+    "name": "Soft blue"
+},{
+    "hexString": "8066cc",
+    "name": "Moderate violet"
+},{
+    "hexString": "#996699",
+    "name": "Mostly desaturated dark magenta"
+},{
+    "hexString": "#b36680",
+    "name": "Slightly desaturated pink"
+},{
+    "hexString": "#ff6666",
+    "name": "Light red"
+},{
+    "hexString": "#ff9966",
+    "name": "Light orange"
+},{
+    "hexString": "#ffb366",
+    "name": "Light orange"
+},{
+    "hexString": "#ffcc66",
+    "name": "Light orange"
+},{
+    "hexString": "#ffff4d",
+    "name": "Light yellow"
+},{
+    "hexString": "#cccc66",
+    "name": "Moderate yellow"
+},{
+    "hexString": "#669966",
+    "name": "Mostly desaturated dark lime green"
+},{
+    "hexString": "#80b3b3",
+    "name": "Slightly desaturated cyan"
+},{
+    "hexString": "#8099ff",
+    "name": "Very light blue"
+},{
+    "hexString": "#9980e6",
+    "name": "Very soft blue"
+},{
+    "hexString": "#b380b3",
+    "name": "Slightly desaturated magenta"
+},{
+    "hexString": "#cc8099",
+    "name": "Slightly desaturated pink"
+},{
+    "hexString": "#ff8080",
+    "name": "Very light red"
+},{
+    "hexString": "#ff9980",
+    "name": "Very light red"
+},{
+    "hexString": "#ffcc80",
+    "name": "Very light orange"
+},{
+    "hexString": "#ffe666",
+    "name": "Light yellow"
+},{
+    "hexString": "#ffff66",
+    "name": "Light yellow"
+},{
+    "hexString": "#e6e680",
+    "name": "Very soft yellow"
+},{
+    "hexString": "#80b380",
+    "name": "Slightly desaturated lime green"
+},{
+    "hexString": "#99cccc",
+    "name": "Slightly desaturated cyan"
+},{
+    "hexString": "#99b3ff",
+    "name": "Very light blue"
+},{
+    "hexString": "#b399ff",
+    "name": "Very light violet"
+},{
+    "hexString": "#cc99cc",
+    "name": "Slightly desaturated magenta"
+},{
+    "hexString": "#e699b3",
+    "name": "Very soft pink"
+},{
+    "hexString": "#ff9999",
+    "name": "Very light red"
+},{
+    "hexString": "#ffb380",
+    "name": "Very light orange"
+},{
+    "hexString": "#ffcc99",
+    "name": "Very light orange"
+},{
+    "hexString": "#ffe680",
+    "name": "Very light yellow"
+},{
+    "hexString": "#ffff80",
+    "name": "Very light yellow"
+},{
+    "hexString": "#e6e699",
+    "name": "Very soft yellow"
+},{
+    "hexString": "#99cc99",
+    "name": "Slightly desaturated lime green"
+},{
+    "hexString": "#b3e6e6",
+    "name": "Very soft cyan"
+},{
+    "hexString": "#b3ccff",
+    "name": "Pale blue"
+},{
+    "hexString": "#ccb3ff",
+    "name": "Pale violet"
+},{
+    "hexString": "#e6b3e6",
+    "name": "Very soft magenta"
+},{
+    "hexString": "#e6b3cc",
+    "name": "Very soft pink"
+},{
+    "hexString": "#ffb3b3",
+    "name": "Pale red [Pink tone]"
+},{
+    "hexString": "#ffb399",
+    "name": "Very light orange"
+},{
+    "hexString": "#ffe6b3",
+    "name": "Pale orange"
+},{
+    "hexString": "#ffe699",
+    "name": "Very light yellow"
+},{
+    "hexString": "#ffff99",
+    "name": "Very light yellow"
+},{
+    "hexString": "#e6e6b3",
+    "name": "Very soft yellow"
+},{
+    "hexString": "#b3e6b3",
+    "name": "Very soft lime green"
+},{
+    "hexString": "#ccffff",
+    "name": "Very pale cyan"
+},{
+    "hexString": "#cce6ff",
+    "name": "Very pale blue"
+},{
+    "hexString": "#e6ccff",
+    "name": "Very pale violet"
+},{
+    "hexString": "#ffccff",
+    "name": "Very pale magenta"
+},{
+    "hexString": "#ffcce6",
+    "name": "Very pale pink"
+},{
+    "hexString": "#ffcccc",
+    "name": "Very pale red [Pink tone]"
+},{
+    "hexString": "#ffccb3",
+    "name": "Pale orange"
+},{
+    "hexString": "#ffe6cc",
+    "name": "Very pale orange"
+},{
+    "hexString": "#ffffb3",
+    "name": "Pale yellow"
+},{
+    "hexString": "#ffffcc",
+    "name": "Very pale yellow"
+},{
+    "hexString": "#e6e6cc",
+    "name": "Light grayish yellow"
+},{
+    "hexString": "#ccffcc",
+    "name": "Very pale lime green"
+}]}
